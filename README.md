@@ -5,7 +5,7 @@ In this study, we evaluate the performance of various deep learning architecture
 # Reproducible Notebooks Below
 
 
-## Reproducible Notebook for Transformer (M): https://colab.research.google.com/drive/1Xp3s8Up6ko3kfXlPQrIFGQb5cMaUAiI0?usp=sharing
+## Reproducible Notebook for 1D Transformer (M): https://colab.research.google.com/drive/1Xp3s8Up6ko3kfXlPQrIFGQb5cMaUAiI0?usp=sharing
 The model you will be running is the one under `Transformer_Medium_SmoothedData` <br> 
 You have to connect to TPUv2, or this will NOT WORK <be>  
 Go to runtime->change runtime type <br>
