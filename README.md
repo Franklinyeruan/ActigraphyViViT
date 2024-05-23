@@ -4,10 +4,20 @@ In this study, we evaluate the performance of various deep learning architecture
 
 # Reproducible Notebooks Below
 
-
 ## Reproducible Notebook for 1D Transformer (M): https://colab.research.google.com/drive/1Xp3s8Up6ko3kfXlPQrIFGQb5cMaUAiI0?usp=sharing
+
 The model you will be running is the one under `Transformer_Medium_SmoothedData` <br> 
 You have to connect to TPUv2, or this will NOT WORK <be>  
 Go to runtime->change runtime type <br>
 Then select TPUv2 <br>
 You will need Colab Pro, but sometimes Google allows anyone to connect to their TPUv2 -- give it a shot!
+
+## Reproducible Notebook for 3D ViViT: https://colab.research.google.com/drive/1qA1BPt0tJltUUO-bFp6-wioZc-wsUxWp?usp=sharing
+
+
+The model you will be running is the one under `3D_ViViT_RawData` <br> 
+You have to connect to L4 GPU, or this will NOT WORK <be>  
+Go to runtime->change runtime type <br>
+Then select L4 GPU <br>
+You will need Colab Pro, but sometimes Google allows anyone to connect to their L4 GPU -- give it a shot!
+
