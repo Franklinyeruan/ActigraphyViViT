@@ -1,1 +1,1 @@
-### 3D ViViT on smooth data
+3D ViViT. The input is smoothed actigraphy data.
